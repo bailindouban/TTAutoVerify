@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<package name="basicstructs2" extends="struts-default">
+		<action name="index">
+			<result>/index.jsp</result>
+		</action>
+		
+		<action name="main_tab" class="com.asus.action.MainTabAction" method="execute">
+			<result name="success">/main_tab.jsp</result>
+		</action>
+	</package>
+</struts>    

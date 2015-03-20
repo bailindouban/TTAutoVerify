@@ -1,0 +1,16 @@
+version : 0.66
+languages : %
+    Foo : Foo
+    JAVA : Java
+    Java : Java
+    foo : Foo
+    java : Java
+types : %
+    Foo : interpreted
+    Java : interpreted
+modules : %
+    Foo : Inline::Foo
+    Java : Inline::Java
+suffixes : %
+    Foo : foo
+    Java : jdat

@@ -1,0 +1,37 @@
+Branch Name,Name,Reviewer
+CLVP_KK4.4_WW52_AMAX1.0_A400CG,A400CG_CLVP_KK4.4_WW52_AMAX1.0,JerryLB_Yeh@asus.com & juneson_lee@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_A450CG,A450CG_CLVP_KK4.4_WW52_AMAX1.0,Derek1_Peng@asus.com & JerryLB_Yeh@asus.com & justin_yo@asus.com & neil_huang@asus.com
+KK-mr1-A500KL-11.4.0.80-MR,A500KL_KK-mr1-11.4.0.80-MR,brian_chen@asus.com & harry_kuo@asus.com & optimist_liu@asus.com
+rel/a500cg/asus/4.4-2.19.40,A500_502_600CG_KK_MR8,feiwen_cheng@asus.com & Jamess_Huang@asus.com
+rel/a500cg/asus/4.4-2.20.40,A500_502_600CG_KK_MR9,feiwen_cheng@asus.com & Jamess_Huang@asus.com
+KK-mr1-A68-11.8.0.53-RC,A68_KK-mr1-11.8.0.53-RC,harry_kuo@asus.com & optimist_liu@asus.com
+KK-mr1-A80-11.8.0.91-RC,A80_KK-mr1-11.8.0.91-RC,harry_kuo@asus.com & optimist_liu@asus.com
+KK-mr1-A86-11.2.0.27-RC,A86_KK-mr1-A86-11.2.0.27-RC,Bohsuan_Wang@asus.com & shunwen_huang@asus.com
+KK-mr0-A91-11.10.0.27-LE,A91_KK-mr0-11.10.0.27-LE,george_chan@asus.com & mist_liao@asus.com & steve2_yang@asus.com
+AMAX_1.0-android_4.4,AMAX_1.0-android_4.4,feiwen_cheng@asus.com & mist_liao@asus.com
+AMAX_android-4.4.4_r1,AMAX_android-4.4.4_r1,
+kk-mr0-ctp-r3,FE170CG_kk-mr0-ctp-r3,Kenny_Yang@asus.com & Kunyang_Fan@asus.com & Terry_KL_Lin@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_FE171CG,FE171CG-CLVP_KK4.4_WW52_AMAX1.0_FE171CG,Chaolun_Chen@asus.com & Derek1_Peng@asus.com
+MOFD_KK4.4_WW17_AMAX1.0_FE171MG,FE171MG-MOFD_KK4.4_WW17_AMAX1.0_FE171MG,alex_huang@asus.com & JerryLB_Yeh@asus.com & justin_yo@asus.com & neil_huang@asus.com
+kk-mr1-moorefield_ds-r1,FE375CG_CXG_R1_kk-mr1-moorefield_ds-r1,nick_cheng@asus.com & Optimist_Liu@asus.com & Sam_hblee@asus.com
+MOFD_KK4.4_WW17_AMAX1.0_FE380CG,FE380CG_MOFD_KK4.4_WW17_AMAX1.0,caesar_chen@asus.com & JerryLB_Yeh@asus.com
+kk-mr1-8064-r1,ME103K_TF303K_kk-mr1-8064-r1,Harry_Kuo@asus.com & Optimist_Liu@asus.com & Sam_hblee@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_ME175CG,ME175CG_CLVP_KK4.4_WW52_AMAX1.0,caesar_chen@asus.com & JerryLB_Yeh@asus.com
+dev/me176c/asus/4.4.2,ME176C_dev_4.4.2,Alex_Huang@asus.com
+dev/me181c/asus/4.4.2,ME181C_dev_4.4.2,Alex_Huang@asus.com
+dev/me181c/lvl/4.4.2,ME181C_lvl_4.4.2,Alex_Huang@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_ME372CG,ME372CG_CLVP_KK4.4_WW52_AMAX1.0,caesar_chen@asus.com & JerryLB_Yeh@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_ME372CL,ME372CL_CLVP_KK4.4_WW52_AMAX1.0,caesar_chen@asus.com & JerryLB_Yeh@asus.com
+kk-mr0-ctp-r1,ME560CG_kk-mr0-ctp-r1,mist_liao@asus.com
+kk-mr1-moorefield_64-r3,ME572CL_kk-mr1-moorefield_64-r3,Caesar_Chen@asus.com & nick_cheng@asus.com
+kk-mr1-moorefield_64-r2,ME581CL_kk-mr1-moorefield_64-r2,Caesar_Chen@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_PF400CG,PF400CG_KK4.4_WW52_AMAX1.0,JerryLB_Yeh@asus.com & juneson_lee@asus.com & neil_huang@asus.com & ocean_chang@asus.com
+KK-mr1-PF450CL-11.30.0.10-TA,PF450CL_KK-mr1-11.30.0.10-TA,brandon_lee@asus.com
+KK-mr1-PF451CL-11.30.5.34-RC,PF451CL_KK-mr1-PF451CL-11.30.5.34-RC,brandon_lee@asus.com
+KK-mr1-PF500KL-11.10.0.118-RC,PF500KL_KK-mr1-11.10.0.118-RC,yang_chuang@asus.com
+kk-mr0-ctp-r2,TF103CG_kk-mr0-ctp-r2,David_Kuo@asus.com & Terry_KL_Lin@asus.com
+dev/tf103c/asus/4.4.2,TF103C_dev_4.4.2,arica_chen@asus.com & Harry_Kuo@asus.com & Jones_Fu@asus.com
+kk-mr0-byt-r1,TF303CL_KK-MR0-BYT-r1,arica_chen@asus.com & Harry_Kuo@asus.com & vicente_chen@asus.com
+kk-t40-r1,TF701T_P1802_kk-t40-r1,Terry_KL_Lin@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_TX201LAF,TX201LAF_CLVP_KK4.4_WW52_AMAX1.0,alex_huang@asus.com & JerryLB_Yeh@asus.com & justin_yo@asus.com & neil_huang@asus.com
+CLVP_KK4.4_WW52_AMAX1.0_ZC400CG,ZC400CG-CLVP_KK4.4_WW52_AMAX1.0_ZC400CG,JerryLB_Yeh@asus.com

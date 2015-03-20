@@ -1,0 +1,9 @@
+#!/bin/sh -e
+
+path_base="/home/junzheng_zhang/Documents/DevelopeTools/TTAutoVerify/backend_service/perl_script"
+
+if [ -z "$1" ]; then
+    perl $path_base/upload.pl
+else
+    perl $path_base/upload.pl $1
+fi

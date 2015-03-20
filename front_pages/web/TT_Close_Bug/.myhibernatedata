@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Wed Aug 27 15:06:14 CST 2014
+genBasicCompId=false
+sessionFactoryName=com.asus.model.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=increment
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/TT_Close_Bug/hibernate.reveng.xml
+configFile=/TT_Close_Bug/src/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=com.asus.dao.BaseHibernateDAO
